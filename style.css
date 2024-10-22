@@ -1,0 +1,24 @@
+*{
+    background-color: lightblue; 
+}
+.desc, a{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+#Title{
+    text-align: center;
+}
+#Title img{
+    display: block; /* Makes the image a block element */
+    margin: auto;  /* Centers the image */
+    border: 10px solid black; /* Sets the border width, style, and color */
+}
+ul,ol,h1,h2{
+    font-weight: bold;
+}
+.homePage{
+    text-align: center;
+}
