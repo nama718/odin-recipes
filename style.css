@@ -6,6 +6,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     font-weight: bold;
+    
 }
 
 #Title{
@@ -21,4 +22,21 @@ ul,ol,h1,h2{
 }
 .homePage{
     text-align: center;
+}
+a{
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    margin: 10px;
+    padding: 20px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.filler{
+    text-align: center;
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
 }
